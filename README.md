@@ -1,0 +1,5 @@
+-My name is Ryck I'm starting now from programming
+-I'm 18
+-I'm a gamer 
+-I do not date
+-Study PHP py sql java xms c++ css
