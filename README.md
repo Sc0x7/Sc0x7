@@ -1,5 +1,5 @@
--My name is Ryck I'm starting now from programming
+-My name is Scox7-$ I'm starting now from programming
 -I'm 18
 -I'm a gamer 
--I do not date
+-Focus on growth
 -Study PHP py sql java xms c++ css
