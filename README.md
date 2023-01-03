@@ -1,5 +1,1 @@
--My name is Scox7-$ I'm starting now from programming
--I'm 18
--I'm a gamer 
--Focus on growth
--Study PHP py sql java xms c++ css
+Questionable power
